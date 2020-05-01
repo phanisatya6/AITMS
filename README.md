@@ -26,6 +26,8 @@ Unlike conventional traffic signals that cycle on fixed timers, AITMS:
 
 > ⚠️ **Note:** This is a simulation using pre-recorded video files. In a production deployment, the same pipeline would connect to live CCTV camera feeds.
 
+[▶️ Watch the demo on YouTube](https://youtu.be/aI7hh6BbZDY)
+
 ---
 
 ## ✨ Features

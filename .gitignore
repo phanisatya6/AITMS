@@ -26,6 +26,8 @@ data/*.mp4
 data/first/*.mp4
 data/second/*.mp4
 !data/.gitkeep
+reference/Data/
+reference/documentation.pdf
 
 # Logs
 *.log
