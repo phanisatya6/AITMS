@@ -239,7 +239,4 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ---
 
-## 🙏 Acknowledgments
 
-- Original project built at [Your University/Institution]
-- Built with OpenCV, NumPy, and Python's standard library
